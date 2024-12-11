@@ -1,4 +1,4 @@
-# Blinkit Sales Dashboard (Dummy Data)
+# Blinkit Sales Dashboard (dummy data)
 
 ### Dashboard Link : t.ly/xwSOT (copy & paste on your browser)
 
